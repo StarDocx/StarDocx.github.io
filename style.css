@@ -143,11 +143,14 @@ img.center {
 }
 
 #coming-soon .twitter:before{
-	content: '@';
 	padding-top: 2px;
 	padding-left: 24px;
-	background: url(twitter.png) no-repeat 0 0px;
+	background: url(fb.png) no-repeat 0 0px;
 }
 #coming-soon .twitter{
 	padding-top: 5px;
+}
+
+.twitter {
+	color: #000066 !important;
 }
